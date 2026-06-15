@@ -4,6 +4,9 @@ A curated list of AI applications and tools across various categories, including
 ## Homework
 - **[Socratic by Google](https://socratic.org/)**: An AI-powered educational search app that helps students with homework by providing relevant explanations and resources.
 
+## Image Editing
+- **[ClearCrowds](https://www.clearcrowds.com/)**: An AI photo cleanup editor for removing crowds, unwanted objects, glare, glasses, and other distractions from travel, portrait, real estate, and product photos.
+
 ## Search Engine
 - **[Bing AI](https://www.bing.com/)**: Microsoft's search engine that integrates AI to enhance search results and provide richer user experiences.
 - **[Hugging Face Chat](https://huggingface.co/chat/)**: An interactive platform for engaging with AI chat models developed by Hugging Face, showcasing advanced NLP capabilities.
