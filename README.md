@@ -7,6 +7,9 @@ A curated list of AI applications and tools across various categories, including
 ## Image Editing
 - **[ClearCrowds](https://www.clearcrowds.com/)**: An AI photo cleanup editor for removing crowds, unwanted objects, glare, glasses, and other distractions from travel, portrait, real estate, and product photos.
 
+## Image Generation
+- **[Seedream AI Studio](https://seedream4.video/)**: ByteDance's multi-model AI image generation platform powered by Seedream 5.0/4.5/4.0, ranked #1 in AI Image Arena. Supports up to 10 reference images and one-click video generation via Kling 2.1. Free tier available.
+
 ## Search Engine
 - **[Bing AI](https://www.bing.com/)**: Microsoft's search engine that integrates AI to enhance search results and provide richer user experiences.
 - **[Hugging Face Chat](https://huggingface.co/chat/)**: An interactive platform for engaging with AI chat models developed by Hugging Face, showcasing advanced NLP capabilities.
