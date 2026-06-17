@@ -5,6 +5,10 @@ A curated list of AI applications and tools across various categories, including
 - **[Socratic by Google](https://socratic.org/)**: An AI-powered educational search app that helps students with homework by providing relevant explanations and resources.
 
 ## Image Editing
+
+## Knowledge Management
+- **[Remio](https://remio.ai/)**: A local-first AI memory and knowledge base desktop app for retrieving personal context from files, webpages, recordings, emails, and notes.
+
 - **[ClearCrowds](https://www.clearcrowds.com/)**: An AI photo cleanup editor for removing crowds, unwanted objects, glare, glasses, and other distractions from travel, portrait, real estate, and product photos.
 
 ## Search Engine
