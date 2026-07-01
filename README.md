@@ -1,6 +1,8 @@
 # awesome-ai-apps
 A curated list of AI applications and tools across various categories, including writing assistants, image generators, chatbots, and more. Discover, explore, and contribute to a comprehensive directory of the best AI software available in alphabetical order.
 
+**Total: 150+ AI apps across 15 categories**
+
 ## AI Chatbot
 - **[Character.AI](https://character.ai/)**: A platform for creating and chatting with millions of user-generated AI characters for roleplay and entertainment.
 - **[ChatGPT](https://chatgpt.com/)**: OpenAI's versatile AI assistant for general conversation, content creation, coding, and multimodal tasks.
@@ -162,9 +164,50 @@ A curated list of AI applications and tools across various categories, including
 - **[Vyond](https://www.vyond.com/)**: AI-powered animated character video creator for training, explainer, and marketing videos.
 - **[Wondershare Filmora](https://filmora.wondershare.com/)**: Traditional video editor packed with AI features like smart cutout, background removal, and motion tracking.
 
+## AI Browser Automation
+- **[AI Browser](https://ai-browser.io/)**: Agentic browser automation for web tasks, CAPTCHA handling, scheduling, and cloud-based browser sessions.
+- **[Browser Use](https://browser-use.com/)**: AI agents that control real browsers for web automation, data extraction, and task execution.
+- **[4ier](https://4ier.com/)**: Chrome extension that turns any web app into an API for AI agents to interact with.
+- **[CamoFox Browser](https://camofox-browser.com/)**: Stealth headless browser for AI agents to bypass Cloudflare and bot detection.
+- **[OpenClaw Browser](https://openclaw.com/)**: AI agent browser for accessing web content securely and bypassing anti-scraping measures.
+
+## AI Product Builders
+- **[Bolt.new](https://bolt.new/)**: StackBlitz's in-browser AI app builder that generates, runs, and deploys full-stack web apps from a prompt.
+- **[Lovable](https://lovable.dev/)**: AI app builder that generates full-stack web applications from natural-language descriptions and deploys them instantly.
+- **[Raydian](https://raydian.com/)**: AI platform for building full-stack web apps via chat-to-build workflows with visual editing and integrated hosting.
+- **[Wispr Flow](https://www.wisprflow.com/)**: AI-powered workflow builder for creating and deploying full-stack apps with AI-generated code.
+- **[Framer AI Agents](https://www.framer.com/ai/)**: AI tools for designing and publishing professional sites with AI assistance.
+- **[Orate](https://orate.ai/)**: AI-powered app builder for creating and deploying full-stack web apps from prompts.
+
+## AI Voice Agents
+- **[Deepgram](https://deepgram.com/)**: AI speech recognition and voice AI for real-time transcription, voice agents, and call automation.
+- **[ElevenLabs Voice Isolator](https://elevenlabs.io/voice-isolator)**: AI tool for isolating and enhancing voices in audio recordings.
+- **[Klariqo AI Voice Assistants](https://klariqo.com/)**: AI voice assistants for SMBs with plug-and-play deployment, telephony, and calendar-backed booking.
+- **[Vapi](https://vapi.ai/)**: AI voice agents for calls, messaging, and real-time voice interactions with multi-platform support.
+- **[Voiceflow](https://www.voiceflow.com/)**: AI-powered voice assistant builder for creating conversational AI experiences.
+- **[Speakable](https://speakable.ai/)**: AI voice assistant for customer service and support automation.
+- **[Aivo](https://aivo.ai/)**: AI voice assistant for enterprise use, integrating with CRM and call centers.
+
+## AI Workflow Automation
+- **[Activepieces](https://www.activepieces.com/)**: Open-source AI workflow builder for automating tasks across 1000+ apps and APIs.
+- **[n8n](https://n8n.io/)**: Open-source workflow automation with AI integrations for connecting apps and APIs.
+- **[Zapier MCP](https://zapier.com/)**: AI-powered automation via Model Context Protocol for connecting 6,000+ apps and services.
+- **[Granola](https://granola.dev/)**: AI workflow automation platform for connecting and automating apps.
+- **[Attio](https://www.attio.com/)**: AI-powered workflow automation for sales and customer support.
+- **[Make (Integromat)](https://www.make.com/)**: AI-powered workflow automation for connecting apps and services.
+
 ## Web Automation
 - **[Harpa AI](https://www.harpa.ai/)**: An AI-powered tool designed to improve productivity by providing intelligent search and automation features.
 - **[Multion](https://multion.io/)**: Provides AI-powered web automation and task management solutions.
+
+## AI Meeting Assistants
+- **[Findr](https://findr.app/)**: AI-powered memory assistant for capturing and retrieving meeting insights, notes, and action items.
+- **[Mina Meeting Assistant](https://mina.com/)**: AI notetaker for meetings with transcription, summaries, and real-time action item extraction.
+- **[Otter.ai](https://otter.ai/)**: AI meeting assistant that records, transcribes, summarizes, and captures action items from meetings.
+
+## AI Research & Development
+- **[Langfuse](https://langfuse.com/)**: AI observability platform for monitoring, debugging, and evaluating LLM applications and agents.
+- **[Remy AI](https://remy.ai/)**: AI research assistant for summarizing papers, generating insights, and answering complex research questions.
 
 ## Writing
 - **[Anyword](https://anyword.com/)**: AI copywriting platform that scores and predicts the performance of marketing copy.
