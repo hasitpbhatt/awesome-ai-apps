@@ -5,6 +5,7 @@ A curated list of AI applications and tools across various categories, including
 - **[Socratic by Google](https://socratic.org/)**: An AI-powered educational search app that helps students with homework by providing relevant explanations and resources.
 
 ## Image Editing
+- **[HairWow](https://www.gohairwow.com/)**: An AI hairstyle try-on and hair analysis tool for previewing haircuts, bangs, beard styles, hair colors, and salon references from a selfie.
 
 ## Knowledge Management
 - **[Remio](https://remio.ai/)**: A local-first AI memory and knowledge base desktop app for retrieving personal context from files, webpages, recordings, emails, and notes.
