@@ -148,6 +148,7 @@ A curated list of AI applications and tools across various categories, including
 - **[Descript](https://www.descript.com/)**: AI video editor that lets you edit video by editing the transcript, with AI audio cleanup and auto-clipping.
 - **[Fliki](https://fliki.ai/)**: Text-to-video and text-to-speech creator for making videos with AI voices in minutes.
 - **[Hailuo AI](https://hailuoai.video/)**: AI-powered text-to-video generator with a strong quality-to-price ratio.
+- **[ImagineClip](https://imagineclip.com/ai-image-to-video)**: Browser-based AI video workflow for prompt, image-to-video, and creative-effect clips.
 - **[HeyGen](https://www.heygen.com/)**: An AI video generation tool offering features like **Multiple AI Avatars**, **Text-to-Video Conversion**, **Voice Cloning**, and **Custom Backgrounds**.
 - **[Hour One](https://www.hourone.ai/)**: Offers AI-powered video creation with **30+ AI Characters**, **27 Video Templates**, **19 Languages**, and a **Brand Kit** option for customization.
 - **[InVideo](https://invideo.io/)**: An online video editor and creation platform that uses AI to assist in video production. Features include **AI Script Generation**, **Auto Text-to-Speech**, and **Intelligent Scene Selection**.
