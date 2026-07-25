@@ -71,6 +71,7 @@ A curated list of AI applications and tools across various categories, including
 
 ## Image Editing
 - **[Adobe Photoshop](https://www.adobe.com/products/photoshop/)**: Industry-standard image editor with AI tools like Generative Fill, Generative Expand, and the Remove Tool.
+- **[Blur Background](https://blurbackground.vip)**: Browser tool that automatically blurs photo backgrounds.
 - **[Canva](https://www.canva.com/)**: Design platform with AI photo-editing tools including Magic Eraser, Magic Edit, and template generation.
 - **[ClearCrowds](https://www.clearcrowds.com/)**: An AI photo cleanup editor for removing crowds, unwanted objects, glare, glasses, and other distractions from travel, portrait, real estate, and product photos.
 - **[ClipDrop](https://clipdrop.co/)**: AI visual creation suite by Stability AI for relighting, object removal, upscaling, and background removal.
