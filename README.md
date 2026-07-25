@@ -164,6 +164,7 @@ A curated list of AI applications and tools across various categories, including
 - **[Sora](https://sora.com/)**: OpenAI's text-to-video model for generating high-quality, realistic videos from prompts and images.
 - **[Synthesia](https://www.synthesia.io/)**: An AI video generator that creates videos with AI avatars from text. Features include **Multiple AI Presenters**, **Text-to-Speech in 120+ Languages**, **Custom AI Avatars**, and **Video Templates**.
 - **[VEED](https://www.veed.io/)**: Browser-based AI video editor for faster content production, auto-captions, and repurposing.
+- **[Video Upscaler](https://videoupscaler.video)**: Browser tool for AI video upscaling and enhancement.
 - **[Vyond](https://www.vyond.com/)**: AI-powered animated character video creator for training, explainer, and marketing videos.
 - **[Wondershare Filmora](https://filmora.wondershare.com/)**: Traditional video editor packed with AI features like smart cutout, background removal, and motion tracking.
 
