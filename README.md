@@ -75,6 +75,7 @@ A curated list of AI applications and tools across various categories, including
 - **[ClearCrowds](https://www.clearcrowds.com/)**: An AI photo cleanup editor for removing crowds, unwanted objects, glare, glasses, and other distractions from travel, portrait, real estate, and product photos.
 - **[ClipDrop](https://clipdrop.co/)**: AI visual creation suite by Stability AI for relighting, object removal, upscaling, and background removal.
 - **[HairWow](https://www.gohairwow.com/)**: An AI hairstyle try-on and hair analysis tool for previewing haircuts, bangs, beard styles, hair colors, and salon references from a selfie.
+- **[Image Describer](https://imagedescriber.dev)**: Browser tool that generates detailed descriptions of uploaded images.
 - **[Lensa](https://prisma-ai.com/lensa)**: Mobile AI photo editor that excels at portraits and selfies, plus AI-generated avatars.
 - **[Luminar Neo](https://skylum.com/luminar)**: AI-powered photo editor for photographers, featuring AI sky replacement, subject detection, and GenErase.
 - **[Magnific](https://www.magnific.ai/)**: AI image upscaler and enhancer that adds high-resolution, creative detail to images.
