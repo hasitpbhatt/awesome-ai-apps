@@ -124,6 +124,7 @@ A curated list of AI applications and tools across various categories, including
 - **[Beautiful.ai](https://www.beautiful.ai/)**: AI-powered presentation design tool that auto-formats slides as you build them.
 - **[Fireflies.ai](https://fireflies.ai/)**: AI notetaker that records, transcribes, and summarizes meetings across video-conferencing platforms.
 - **[Gamma](https://gamma.app/)**: AI tool to generate polished presentations, documents, and webpages from a prompt.
+- **[GPTGeminiGrok.AI](https://trygrokai.asia/)**: Browser workspace for GPT, Gemini, Grok, Claude, and AI image workflows.
 - **[Krisp](https://krisp.ai/)**: AI-powered noise cancellation and voice clarity tool for calls and meetings.
 - **[MeetGeek](https://meetgeek.ai/)**: AI meeting assistant that video-records, transcribes, summarizes, and extracts key points from meetings.
 - **[Otter.ai](https://otter.ai/)**: AI meeting assistant that records, transcribes, summarizes, and captures action items from meetings.
