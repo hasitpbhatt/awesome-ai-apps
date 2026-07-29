@@ -225,6 +225,7 @@ A curated list of AI applications and tools across various categories, including
 - **[QuillBot](https://quillbot.com/)**: AI paraphrasing, summarizing, and grammar-checking tool that integrates with Word and Google Docs.
 - **[Rytr](https://rytr.me/)**: Affordable AI writing assistant covering 40+ use cases with multiple tones and styles.
 - **[Sudowrite](https://www.sudowrite.com/)**: AI creative writing assistant built for fiction writers to brainstorm, expand, and revise prose.
+- **[WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/)**: Free browser tool for customizable stories by genre, tone, characters, plot details, and length.
 - **[Wordtune](https://www.wordtune.com/)**: AI tool that rewrites and refines sentences for clarity, conciseness, and tone.
 - **[Writer](https://writer.com/)**: AI writing platform for business teams with style guides, templates, and collaboration.
 - **[Writesonic](https://writesonic.com/)**: AI writing tool for articles, ads, landing pages, and an AI chat assistant (Chatsonic).
