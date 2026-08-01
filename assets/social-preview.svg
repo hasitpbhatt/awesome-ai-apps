@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="awesome-ai-apps — a curated list of the best AI applications and tools, organized by category">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#1E1B4B"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="sparkGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glowTL" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBR" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0891B2" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="48" height="48" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#FFFFFF" opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="1280" height="640" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="640" fill="url(#dots)"/>
+
+  <circle cx="120" cy="120" r="300" fill="url(#glowTL)"/>
+  <circle cx="1180" cy="560" r="340" fill="url(#glowBR)"/>
+
+  <rect x="0" y="0" width="1280" height="8" fill="url(#accent)"/>
+
+  <g transform="translate(80, 64)">
+    <path d="M0 -14 C1.2 -4.6, 4.6 -1.2, 14 0 C4.6 1.2, 1.2 4.6, 0 14 C-1.2 4.6, -4.6 1.2, -14 0 C-4.6 -1.2, -1.2 -4.6, 0 -14 Z" fill="url(#sparkGrad)"/>
+    <circle cx="0" cy="0" r="2.5" fill="#0F172A"/>
+  </g>
+  <text x="108" y="74" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.4" fill="#F8FAFC">awesome-ai-apps</text>
+
+  <text x="80" y="196" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-1.5" fill="#FFFFFF">awesome-ai-apps</text>
+
+  <text x="80" y="258" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#C7D2FE">A curated list of the best AI applications and tools, organized by category.</text>
+  <text x="80" y="298" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#C7D2FE">Verified links, updated regularly, and kept lean — only apps that genuinely stand out.</text>
+
+  <text x="80" y="380" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" fill="#22D3EE">127</text>
+  <text x="80" y="414" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#94A3B8">AI apps curated</text>
+
+  <text x="300" y="380" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" fill="#A78BFA">10</text>
+  <text x="300" y="414" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#94A3B8">categories</text>
+
+  <text x="520" y="380" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" fill="#34D399">MIT</text>
+  <text x="520" y="414" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#94A3B8">licensed · PRs welcome</text>
+
+  <g font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <rect x="80" y="452" width="216" height="50" rx="25" fill="#FFFFFF" opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="100" cy="477" r="5" fill="#22D3EE"/>
+    <text x="116" y="483" font-size="18" font-weight="600" fill="#E2E8F0">AI Chatbots</text>
+
+    <rect x="320" y="452" width="216" height="50" rx="25" fill="#FFFFFF" opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="340" cy="477" r="5" fill="#A78BFA"/>
+    <text x="356" y="483" font-size="18" font-weight="600" fill="#E2E8F0">AI Coding</text>
+
+    <rect x="560" y="452" width="216" height="50" rx="25" fill="#FFFFFF" opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="580" cy="477" r="5" fill="#34D399"/>
+    <text x="596" y="483" font-size="18" font-weight="600" fill="#E2E8F0">Search &amp; Research</text>
+
+    <rect x="800" y="452" width="216" height="50" rx="25" fill="#FFFFFF" opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="820" cy="477" r="5" fill="#F472B6"/>
+    <text x="836" y="483" font-size="18" font-weight="600" fill="#E2E8F0">AI Writing</text>
+
+    <rect x="1040" y="452" width="216" height="50" rx="25" fill="#FFFFFF" opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="1060" cy="477" r="5" fill="#FB923C"/>
+    <text x="1076" y="483" font-size="18" font-weight="600" fill="#E2E8F0">AI Image</text>
+
+    <rect x="80" y="516" width="216" height="50" rx="25" fill="#FFFFFF" opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="100" cy="541" r="5" fill="#F87171"/>
+    <text x="116" y="547" font-size="18" font-weight="600" fill="#E2E8F0">AI Video</text>
+
+    <rect x="320" y="516" width="216" height="50" rx="25" fill="#FFFFFF" opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="340" cy="541" r="5" fill="#60A5FA"/>
+    <text x="356" y="547" font-size="18" font-weight="600" fill="#E2E8F0">Audio &amp; Voice</text>
+
+    <rect x="560" y="516" width="216" height="50" rx="25" fill="#FFFFFF" opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="580" cy="541" r="5" fill="#FACC15"/>
+    <text x="596" y="547" font-size="18" font-weight="600" fill="#E2E8F0">Productivity</text>
+
+    <rect x="800" y="516" width="216" height="50" rx="25" fill="#FFFFFF" opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="820" cy="541" r="5" fill="#2DD4BF"/>
+    <text x="836" y="547" font-size="18" font-weight="600" fill="#E2E8F0">Automation &amp; Agents</text>
+
+    <rect x="1040" y="516" width="216" height="50" rx="25" fill="#FFFFFF" opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="1060" cy="541" r="5" fill="#E879F9"/>
+    <text x="1076" y="547" font-size="18" font-weight="600" fill="#E2E8F0">Local &amp; Open Source</text>
+  </g>
+
+  <g>
+    <rect x="80" y="574" width="470" height="44" rx="22" fill="#FFFFFF" opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="106" y="602" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#E2E8F0">github.com/hasitpbhatt/awesome-ai-apps</text>
+  </g>
+
+  <text x="1200" y="602" text-anchor="end" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#94A3B8">MIT License · contributions welcome</text>
+</svg>
