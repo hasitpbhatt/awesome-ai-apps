@@ -88,6 +88,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 
 ## AI Image
 
+- **[AIImageChanger.app](https://aiimagechanger.app/)**: Browser-based image editor that changes backgrounds, objects, clothing, colors, text, and styles from plain-language prompts while preserving details that should stay unchanged.
 - **[Midjourney](https://www.midjourney.com/)**: Renowned for highly artistic, striking images from text prompts.
 - **[DALL·E](https://openai.com/dall-e-3/)**: OpenAI's text-to-image model for realistic images from descriptions.
 - **[FLUX](https://blackforestlabs.ai/)**: High-quality open text-to-image models from the original Stable Diffusion team.
