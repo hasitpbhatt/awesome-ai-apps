@@ -9,13 +9,14 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 127 AI apps across 10 categories**
+**Total: 131 AI apps across 11 categories**
 
 ## Contents
 
 - [AI Chatbots](#ai-chatbots)
 - [AI Coding](#ai-coding)
 - [AI Search & Research](#ai-search--research)
+- [AI Search Visibility](#ai-search-visibility)
 - [AI Writing](#ai-writing)
 - [AI Image](#ai-image)
 - [AI Video](#ai-video)
@@ -71,6 +72,13 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Komo](https://komo.ai/)**: Private, ad-free AI search engine.
 - **[Brave Search](https://search.brave.com/)**: Independent AI search with a privacy-first approach.
 - **[Consensus](https://consensus.app/)**: Search engine that surfaces evidence from 200M+ research papers.
+
+## AI Search Visibility
+
+- **[AISO Tools](https://aisotools.com/)**: Audits whether ChatGPT, Perplexity, and AI Overviews recommend your site for a query, and reports the gaps.
+- **[Otterly.AI](https://otterly.ai/)**: Monitors brand mentions and links in AI search results and AI Overviews.
+- **[Peec AI](https://peec.ai/)**: Tracks how often a brand appears in AI assistant answers versus competitors.
+- **[Profound](https://www.tryprofound.com/)**: Enterprise analytics for brand visibility and citations across AI answer engines.
 
 ## AI Writing
 
