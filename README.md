@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 132 AI apps across 11 categories**
+**Total: 133 AI apps across 11 categories**
 
 ## Contents
 
@@ -169,16 +169,17 @@ A curated list of the best AI applications and tools, organized by category. Upd
 
 ## AI Automation & Agents
 
-- **[n8n](https://n8n.io/)**: Open-source workflow automation with AI integrations for 400+ apps.
-- **[Zapier](https://zapier.com/)**: AI automation connecting 6,000+ apps and services.
-- **[Make](https://www.make.com/)**: Visual automation for connecting apps and services.
 - **[Activepieces](https://www.activepieces.com/)**: Open-source AI workflow builder across 1000+ apps.
+- **[Agent QA](https://github.com/vostride/agent-qa)**: AI QA agent for natural-language web and mobile tests with persistent test memory.
 - **[Browser Use](https://browser-use.com/)**: Open-source AI agents that control real browsers.
-- **[Gumloop](https://www.gumloop.com/)**: AI agent builder for marketing, sales, and ops workflows.
 - **[Dify](https://dify.ai/)**: Open-source LLM app platform with visual workflows and RAG.
 - **[Flowise](https://flowiseai.com/)**: Open-source drag-and-drop builder for LLM agents.
+- **[Gumloop](https://www.gumloop.com/)**: AI agent builder for marketing, sales, and ops workflows.
 - **[LangGraph](https://www.langchain.com/langgraph)**: LangChain's framework for production-grade agent workflows.
+- **[Make](https://www.make.com/)**: Visual automation for connecting apps and services.
+- **[n8n](https://n8n.io/)**: Open-source workflow automation with AI integrations for 400+ apps.
 - **[OpenClaw](https://openclaw.ai/)**: Open-source personal AI assistant for messaging apps with memory and skills.
+- **[Zapier](https://zapier.com/)**: AI automation connecting 6,000+ apps and services.
 
 ## Local & Open Source
 
