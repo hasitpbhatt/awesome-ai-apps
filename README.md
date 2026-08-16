@@ -129,6 +129,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[HeyGen](https://www.heygen.com/)**: AI avatar video generation with voice cloning and multi-language support.
 - **[Synthesia](https://www.synthesia.io/)**: AI avatars that present videos from text in 120+ languages.
 - **[VEED](https://www.veed.io/)**: Browser-based AI video editor for captions and repurposing.
+- **[videos.social](https://videos.social/?utm_source=hasitpbhatt-awesome-ai-apps&utm_medium=directory&utm_campaign=listing-wave-d)**: Turns blogs, PDFs, and prompts into editable faceless videos.
 - **[OpusClip](https://www.opus.pro/)**: Extracts viral short clips from long-form videos.
 - **[D-ID](https://www.d-id.com/)**: Creates realistic AI presenters and avatar videos via API.
 - **[Higgsfield](https://higgsfield.ai/)**: Creative workspace for dynamic AI images and videos.
