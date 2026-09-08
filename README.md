@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 133 AI apps across 11 categories**
+**Total: 134 AI apps across 11 categories**
 
 ## Contents
 
@@ -62,6 +62,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Kilo Code](https://kilocode.ai/)**: Open-source editor agent spanning VS Code, JetBrains, and CLI with 500+ models.
 - **[Antigravity](https://antigravity.google/)**: Google's AI-powered IDE where agents plan, write, run, and test code.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Google's open-source terminal agent with a 1M-token context window.
+- **[YYLO](https://github.com/yylo-dev/yylo)**: Open-source command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.
 
 ## AI Search & Research
 
