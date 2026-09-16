@@ -8,6 +8,7 @@ A curated list of AI applications and tools across various categories, including
 - **[ClearCrowds](https://www.clearcrowds.com/)**: An AI photo cleanup editor for removing crowds, unwanted objects, glare, glasses, and other distractions from travel, portrait, real estate, and product photos.
 
 ## Search Engine
+- **[AI Tools Radar](https://aitoolsradar.com/)**: An AI tools directory and editorial platform for discovering, comparing, and tracking AI products.
 - **[Bing AI](https://www.bing.com/)**: Microsoft's search engine that integrates AI to enhance search results and provide richer user experiences.
 - **[Hugging Face Chat](https://huggingface.co/chat/)**: An interactive platform for engaging with AI chat models developed by Hugging Face, showcasing advanced NLP capabilities.
 - **[Kagi](https://www.kagi.com/)**: A privacy-focused search engine leveraging AI to provide accurate and relevant search results.
