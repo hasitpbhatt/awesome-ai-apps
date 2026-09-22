@@ -131,7 +131,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[VEED](https://www.veed.io/)**: Browser-based AI video editor for captions and repurposing.
 - **[videos.social](https://videos.social/?utm_source=hasitpbhatt-awesome-ai-apps&utm_medium=directory&utm_campaign=listing-wave-d)**: Turns blogs, PDFs, and prompts into editable faceless videos.
 - **[OpusClip](https://www.opus.pro/)**: Extracts viral short clips from long-form videos.
-- **[shortshort](https://www.shortshort.io/)**: Turns one long talk, podcast, or course into up to 20 vertical 9:16 shorts with word-by-word captions.
+- **[shortshort](https://www.shortshort.io/)**: Turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions.
 - **[D-ID](https://www.d-id.com/)**: Creates realistic AI presenters and avatar videos via API.
 - **[Higgsfield](https://higgsfield.ai/)**: Creative workspace for dynamic AI images and videos.
 
