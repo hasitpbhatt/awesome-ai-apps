@@ -1,6 +1,10 @@
 # Contributing to awesome-ai-apps
 
-Thanks for helping keep **awesome-ai-apps** curated, lean, and genuinely useful. The list is deliberately small: **127 hand-picked AI apps across 10 categories** — only apps that genuinely stand out make the cut.
+Thanks for helping keep **awesome-ai-apps** curated, lean, and genuinely useful. The list is deliberately small: **127 hand-picked AI apps across 10 categories** — only apps that genuinely stand out.
+
+## Before you start
+
+**Please star this repository** ⭐ before submitting a pull request. We ask all contributors to star the project as a sign of support and to help it reach more people in the community. This is required for your PR to be merged.
 
 ## What we accept
 
@@ -49,6 +53,7 @@ Rules:
 
 ## Before you submit
 
+- [ ] **Starred the repository** (required for PR merge).
 - [ ] Read the README and confirm the app isn't already listed (search by name and alias).
 - [ ] Verify the link works and points to the official product.
 - [ ] Confirm the description is accurate, one line, and matches the existing tone.
@@ -69,6 +74,7 @@ Rules:
 
 ## Review & merge
 
+- **All PR authors must have starred the repository.** Maintainers will verify this before merging.
 - Maintainers verify every link and description before merging.
 - PRs that add spam, self-promo, broken links, or out-of-order entries will be closed with a comment.
 - We aim to review submissions within a few days.
