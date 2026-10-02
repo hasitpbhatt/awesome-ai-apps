@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 133 AI apps across 11 categories**
+**Total: 134 AI apps across 11 categories**
 
 ## Contents
 
@@ -91,6 +91,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Copy.ai](https://www.copy.ai/)**: Generates marketing copy, ad text, and automated content workflows.
 - **[Writesonic](https://writesonic.com/)**: AI writing for articles, ads, landing pages, and chat.
 - **[Sudowrite](https://www.sudowrite.com/)**: Creative writing assistant built for fiction writers.
+- **[ImagineYourBook](https://www.imagineyourbook.com/)**: Plans and drafts full manuscripts chapter by chapter, with series story bibles and Word/EPUB/Markdown export.
 - **[Jenni AI](https://jenni.ai/)**: Research and writing assistant tailored for academic papers.
 - **[Anyword](https://anyword.com/)**: Copywriting platform that scores and predicts marketing copy performance.
 - **[Writer](https://writer.com/)**: AI writing platform for business teams with style guides.
