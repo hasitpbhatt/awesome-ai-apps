@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 134 AI apps across 11 categories**
+**Total: 135 AI apps across 11 categories**
 
 ## Contents
 
@@ -39,6 +39,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Poe](https://poe.com/)**: Quora's aggregator for accessing and comparing multiple AI models in one place.
 - **[Character.AI](https://character.ai/)**: Platform for chatting with millions of user-generated AI characters.
 - **[Replika](https://replika.com/)**: AI companion designed for emotional support and conversation practice.
+- **[Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571)**: iOS wellness companion that listens, tracks mood and guides breathing in English or Vietnamese, with a separate safety check that surfaces verified local helplines.
 
 ## AI Coding
 
