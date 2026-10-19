@@ -127,6 +127,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Pika](https://pika.art/)**: Idea-to-video platform with viral effects and quick edits.
 - **[CapCut](https://www.capcut.com/)**: Popular AI video editor with auto-captions and effects.
 - **[Descript](https://www.descript.com/)**: Edit video by editing the transcript, with AI audio cleanup.
+- **[FacelessShorts](https://facelessshorts.io/)**: Scripted faceless video series with voiceover, captions, and scheduled publishing to Shorts, TikTok, and Reels.
 - **[HeyGen](https://www.heygen.com/)**: AI avatar video generation with voice cloning and multi-language support.
 - **[Synthesia](https://www.synthesia.io/)**: AI avatars that present videos from text in 120+ languages.
 - **[VEED](https://www.veed.io/)**: Browser-based AI video editor for captions and repurposing.
