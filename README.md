@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 134 AI apps across 11 categories**
+**Total: 135 AI apps across 11 categories**
 
 ## Contents
 
@@ -168,6 +168,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Reclaim.ai](https://reclaim.ai/)**: AI scheduling that optimizes your calendar around tasks.
 - **[Shortwave](https://www.shortwave.com/)**: AI email client that triages and drafts your inbox.
 - **[SaneBox](https://www.sanebox.com/)**: AI email filtering that prioritizes your inbox automatically.
+- **[SummarizAI](https://summarizai.ink/)**: Chrome extension that adds summaries, chapters, chat, and study flashcards to YouTube videos.
 
 ## AI Automation & Agents
 
