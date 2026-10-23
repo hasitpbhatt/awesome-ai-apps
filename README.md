@@ -117,6 +117,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[ClipDrop](https://clipdrop.co/)**: AI visual suite for relighting, object removal, and background removal.
 - **[Pixlr](https://pixlr.com/)**: Online photo editor with AI cutout, generative fill, and background removal.
 - **[Magnific](https://www.magnific.ai/)**: AI upscaler and enhancer that adds creative high-res detail.
+- **[EmptyRoom AI](https://emptyroomai.com/)**: AI virtual staging for real estate listing photos at $4 per room with free restages.
 
 ## AI Video
 
