@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 134 AI apps across 11 categories**
+**Total: 135 AI apps across 11 categories**
 
 ## Contents
 
@@ -40,6 +40,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Character.AI](https://character.ai/)**: Platform for chatting with millions of user-generated AI characters.
 - **[WSUP AI](https://wsupai.app/)**: Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 - **[Replika](https://replika.com/)**: AI companion designed for emotional support and conversation practice.
+- **[Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571)**: iOS wellness companion that listens, tracks mood and guides breathing in English or Vietnamese, with a separate safety check that surfaces verified local helplines.
 
 ## AI Coding
 
