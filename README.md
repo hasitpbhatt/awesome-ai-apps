@@ -38,6 +38,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Meta AI](https://www.meta.ai/)**: Meta's assistant built into Facebook, Instagram, and WhatsApp.
 - **[Poe](https://poe.com/)**: Quora's aggregator for accessing and comparing multiple AI models in one place.
 - **[Character.AI](https://character.ai/)**: Platform for chatting with millions of user-generated AI characters.
+- **[WSUP AI](https://wsupai.app/)**: Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 - **[Replika](https://replika.com/)**: AI companion designed for emotional support and conversation practice.
 
 ## AI Coding
