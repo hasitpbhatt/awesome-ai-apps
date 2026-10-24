@@ -167,7 +167,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Otter.ai](https://otter.ai/)**: Records, transcribes, and summarizes meetings with action items.
 - **[Fireflies.ai](https://fireflies.ai/)**: AI notetaker across video-conferencing platforms.
 - **[Fathom](https://fathom.video/)**: Free AI notetaker that joins Zoom/Meet/Teams and summarizes.
-- **[JobEmerge](https://www.jobemerge.work)**: AI career copilot with a job-fit test, 19-language resume translator, and Markdown resume editor.
+- **[JobEmerge](https://www.jobemerge.work)**: AI career copilot for job-fit analysis, 19-language resume translation, Markdown resume editing, and application tracking.
 - **[Krisp](https://krisp.ai/)**: AI noise cancellation and voice clarity for calls.
 - **[Reclaim.ai](https://reclaim.ai/)**: AI scheduling that optimizes your calendar around tasks.
 - **[Shortwave](https://www.shortwave.com/)**: AI email client that triages and drafts your inbox.
