@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 135 AI apps across 11 categories**
+**Total: 136 AI apps across 11 categories**
 
 ## Contents
 
@@ -167,6 +167,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Otter.ai](https://otter.ai/)**: Records, transcribes, and summarizes meetings with action items.
 - **[Fireflies.ai](https://fireflies.ai/)**: AI notetaker across video-conferencing platforms.
 - **[Fathom](https://fathom.video/)**: Free AI notetaker that joins Zoom/Meet/Teams and summarizes.
+- **[JobEmerge](https://www.jobemerge.work)**: AI career copilot with a job-fit test, 19-language resume translator, and Markdown resume editor.
 - **[Krisp](https://krisp.ai/)**: AI noise cancellation and voice clarity for calls.
 - **[Reclaim.ai](https://reclaim.ai/)**: AI scheduling that optimizes your calendar around tasks.
 - **[Shortwave](https://www.shortwave.com/)**: AI email client that triages and drafts your inbox.
