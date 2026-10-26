@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 135 AI apps across 11 categories**
+**Total: 136 AI apps across 11 categories**
 
 ## Contents
 
@@ -38,7 +38,9 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Meta AI](https://www.meta.ai/)**: Meta's assistant built into Facebook, Instagram, and WhatsApp.
 - **[Poe](https://poe.com/)**: Quora's aggregator for accessing and comparing multiple AI models in one place.
 - **[Character.AI](https://character.ai/)**: Platform for chatting with millions of user-generated AI characters.
+- **[WSUP AI](https://wsupai.app/)**: Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 - **[Replika](https://replika.com/)**: AI companion designed for emotional support and conversation practice.
+- **[Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571)**: iOS wellness companion that listens, tracks mood and guides breathing in English or Vietnamese, with a separate safety check that surfaces verified local helplines.
 
 ## AI Coding
 
@@ -116,6 +118,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[ClipDrop](https://clipdrop.co/)**: AI visual suite for relighting, object removal, and background removal.
 - **[Pixlr](https://pixlr.com/)**: Online photo editor with AI cutout, generative fill, and background removal.
 - **[Magnific](https://www.magnific.ai/)**: AI upscaler and enhancer that adds creative high-res detail.
+- **[EmptyRoom AI](https://emptyroomai.com/)**: AI virtual staging for real estate listing photos at $4 per room with free restages.
 
 ## AI Video
 
@@ -164,6 +167,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Otter.ai](https://otter.ai/)**: Records, transcribes, and summarizes meetings with action items.
 - **[Fireflies.ai](https://fireflies.ai/)**: AI notetaker across video-conferencing platforms.
 - **[Fathom](https://fathom.video/)**: Free AI notetaker that joins Zoom/Meet/Teams and summarizes.
+- **[JobEmerge](https://www.jobemerge.work)**: AI career copilot for job-fit analysis, 19-language resume translation, Markdown resume editing, and application tracking.
 - **[Krisp](https://krisp.ai/)**: AI noise cancellation and voice clarity for calls.
 - **[Reclaim.ai](https://reclaim.ai/)**: AI scheduling that optimizes your calendar around tasks.
 - **[Shortwave](https://www.shortwave.com/)**: AI email client that triages and drafts your inbox.
