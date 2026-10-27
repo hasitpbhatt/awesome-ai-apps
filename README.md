@@ -12,6 +12,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 **Total: 136 AI apps across 11 categories**
 
 ## Contents
+- [Ideoy](https://ideoy.ai) - AI meme video remakes — one-click viral template remakes for short-form content.
 
 - [AI Chatbots](#ai-chatbots)
 - [AI Coding](#ai-coding)
