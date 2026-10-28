@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 136 AI apps across 11 categories**
+**Total: 137 AI apps across 11 categories**
 
 ## Contents
 
@@ -111,6 +111,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Recraft](https://www.recraft.ai/)**: Image generation with tools for vector art, icons, and 3D graphics.
 - **[Krea](https://www.krea.ai/)**: Real-time image generation and editing with strong style control.
 - **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**: Node-based interface for advanced Stable Diffusion workflows.
+- **[Spaceora](https://spaceora.app/)**: AI interior, exterior, virtual staging, and garden redesigns from a photo of a room or backyard.
 - **[Stable Diffusion](https://stability.ai/)**: Open-source text-to-image model widely used and fine-tuned by the community.
 - **[Adobe Photoshop](https://www.adobe.com/products/photoshop/)**: Industry-standard editor with Generative Fill and AI tools.
 - **[Canva](https://www.canva.com/)**: Design platform with Magic Eraser, Magic Edit, and AI templates.
