@@ -12,7 +12,6 @@ A curated list of the best AI applications and tools, organized by category. Upd
 **Total: 137 AI apps across 11 categories**
 
 ## Contents
-- [Ideoy](https://ideoy.ai) - AI meme video remakes — one-click viral template remakes for short-form content.
 
 - [AI Chatbots](#ai-chatbots)
 - [AI Coding](#ai-coding)
@@ -141,6 +140,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[shortshort](https://www.shortshort.io/)**: Turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions.
 - **[D-ID](https://www.d-id.com/)**: Creates realistic AI presenters and avatar videos via API.
 - **[Higgsfield](https://higgsfield.ai/)**: Creative workspace for dynamic AI images and videos.
+- **[Ideoy](https://ideoy.ai)**: AI meme video remakes — one-click viral template remakes for short-form content.
 
 ## AI Audio & Voice
 
