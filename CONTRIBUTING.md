@@ -1,6 +1,6 @@
 # Contributing to awesome-ai-apps
 
-Thanks for helping keep **awesome-ai-apps** curated, lean, and genuinely useful. The list is deliberately small: **127 hand-picked AI apps across 10 categories** — only apps that genuinely stand out.
+Thanks for helping keep **awesome-ai-apps** curated, lean, and genuinely useful. The list is deliberately small: **148 hand-picked AI apps across 11 categories** — only apps that genuinely stand out.
 
 ## Before you start
 
@@ -31,25 +31,26 @@ Rules:
 1. **Alphabetical order** — insert the new entry in the correct alphabetical spot within its category (ignoring case; e.g. *DeepSeek* comes before *Gemini*).
 2. **Verified link** — the URL must point to the app's official site or primary repository. Test it before submitting.
 3. **One line, one description** — keep it short, factual, and non-promotional. No marketing hype, no emoji, no bolded claims beyond the name.
-4. **The 10 categories** are:
+4. **The 11 categories** are:
 
    | # | Category |
    |---|----------|
    | 1 | AI Chatbots |
    | 2 | AI Coding |
    | 3 | AI Search & Research |
-   | 4 | AI Writing |
-   | 5 | AI Image |
-   | 6 | AI Video |
-   | 7 | AI Audio & Voice |
-   | 8 | AI Productivity & Knowledge |
-   | 9 | AI Automation & Agents |
-   | 10 | Local & Open Source |
+   | 4 | AI Search Visibility |
+   | 5 | AI Writing |
+   | 6 | AI Image |
+   | 7 | AI Video |
+   | 8 | AI Audio & Voice |
+   | 9 | AI Productivity & Knowledge |
+   | 10 | AI Automation & Agents |
+   | 11 | Local & Open Source |
 
    Place the entry in the category that best matches its primary function. If you're unsure, open an issue and ask before editing.
 
 5. **No URL shorteners**, no tracking parameters (`?utm_*`, `ref=`), no referral codes.
-6. When you add an entry, update the **"Total: N AI apps across 10 categories"** line in the README header by +1.
+6. When you add an entry, update the app total in the README header by +1.
 
 ## Before you submit
 
