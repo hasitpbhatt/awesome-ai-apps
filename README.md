@@ -141,6 +141,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[D-ID](https://www.d-id.com/)**: Creates realistic AI presenters and avatar videos via API.
 - **[Higgsfield](https://higgsfield.ai/)**: Creative workspace for dynamic AI images and videos.
 - **[Ideoy](https://ideoy.ai)**: AI meme video remakes — one-click viral template remakes for short-form content.
+- **[AI Rap Video Generator](https://getairapvideo.net/)**: Turns one line of text into a free 15-second vertical AI rap lyric video.
 
 ## AI Audio & Voice
 
