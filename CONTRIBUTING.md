@@ -1,6 +1,6 @@
 # Contributing to awesome-ai-apps
 
-Thanks for helping keep **awesome-ai-apps** curated, lean, and genuinely useful. The list is deliberately small: **148 hand-picked AI apps across 11 categories** — only apps that genuinely stand out.
+Thanks for helping keep **awesome-ai-apps** curated, lean, and genuinely useful. The list is deliberately small: **149 hand-picked AI apps across 11 categories** — only apps that genuinely stand out.
 
 ## Before you start
 

@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 148 AI apps across 11 categories**
+**Total: 149 AI apps across 11 categories**
 
 ## Contents
 
@@ -107,6 +107,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[ClipDrop](https://clipdrop.co/)**: AI visual suite for relighting, object removal, and background removal.
 - **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**: Node-based interface for advanced Stable Diffusion workflows.
 - **[DALL·E](https://openai.com/dall-e-3/)**: OpenAI's text-to-image model for realistic images from descriptions.
+- **[Describe Picture – AI Image Describer](https://describepicture.org/image-describer/)**: Web tool that writes captions, alt text and detailed descriptions for uploaded images.
 - **[EmptyRoom AI](https://emptyroomai.com/)**: AI virtual staging for real estate listing photos at $4 per room with free restages.
 - **[FLUX](https://blackforestlabs.ai/)**: High-quality open text-to-image models from the original Stable Diffusion team.
 - **[Ideogram](https://ideogram.ai/)**: Text-to-image that excels at accurately rendering text within images.
