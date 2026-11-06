@@ -175,6 +175,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[NotebookLM](https://notebooklm.google.com)**: Google's research assistant that answers questions from your sources.
 - **[Notion AI](https://www.notion.so/product/ai)**: AI-powered workspace for notes, docs, wikis, and databases.
 - **[Obsidian](https://obsidian.md/)**: Local-first knowledge base of linked notes with AI plugins.
+- **[OneMira C1](https://onemira.com/products/c1)**: Subscription-free standalone AI voice recorder with local AI transcription, speaker ID, editable Markdown notes, and an open-source [MCP server](https://github.com/onemira-space/onemira-mcp).
 - **[Otter.ai](https://otter.ai/)**: Records, transcribes, and summarizes meetings with action items.
 - **[Reclaim.ai](https://reclaim.ai/)**: AI scheduling that optimizes your calendar around tasks.
 - **[SaneBox](https://www.sanebox.com/)**: AI email filtering that prioritizes your inbox automatically.
