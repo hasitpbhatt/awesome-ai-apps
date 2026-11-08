@@ -125,7 +125,9 @@ A curated list of the best AI applications and tools, organized by category. Upd
 ## AI Video
 
 - **[AI Rap Video Generator](https://getairapvideo.net/)**: Turns one line of text into a free 15-second vertical AI rap lyric video.
+- **[Barz Studio](https://barzvideo.com/?utm_source=hasitpbhatt-awesome-ai-apps&utm_medium=directory&utm_campaign=backlinks)**: Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - **[CapCut](https://www.capcut.com/)**: Popular AI video editor with auto-captions and effects.
+- **[Cyanvid](https://cyanvid.com/?utm_source=hasitpbhatt-awesome-ai-apps&utm_medium=directory&utm_campaign=backlinks)**: AI video generator from text or images; credit quotes before generate.
 - **[D-ID](https://www.d-id.com/)**: Creates realistic AI presenters and avatar videos via API.
 - **[Dance AI Generator](https://danceaigenerator.com/)**: Turns one photo of a person or pet into a 6-second 9:16 dance video.
 - **[Descript](https://www.descript.com/)**: Edit video by editing the transcript, with AI audio cleanup.
