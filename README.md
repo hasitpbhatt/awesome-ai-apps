@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 149 AI apps across 11 categories**
+**Total: 150 AI apps across 11 categories**
 
 ## Contents
 
@@ -189,6 +189,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Dify](https://dify.ai/)**: Open-source LLM app platform with visual workflows and RAG.
 - **[Flowise](https://flowiseai.com/)**: Open-source drag-and-drop builder for LLM agents.
 - **[Gumloop](https://www.gumloop.com/)**: AI agent builder for marketing, sales, and ops workflows.
+- **[JuzPost](https://www.juzpost.com/)**: Social media scheduler that drafts and schedules posts from inside ChatGPT and Claude through its plugin and MCP server.
 - **[LangGraph](https://www.langchain.com/langgraph)**: LangChain's framework for production-grade agent workflows.
 - **[Make](https://www.make.com/)**: Visual automation for connecting apps and services.
 - **[n8n](https://n8n.io/)**: Open-source workflow automation with AI integrations for 400+ apps.
