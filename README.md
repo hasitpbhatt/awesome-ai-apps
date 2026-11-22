@@ -124,6 +124,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Runway](https://runwayml.com/)**: AI video generation and editing with inpainting and motion tracking.
 - **[Kling AI](https://kling.ai/)**: Text-to-video generator with strong motion and character consistency.
 - **[Luma Dream Machine](https://lumalabs.ai/dream-machine)**: Generates realistic videos fast from text and images.
+- **[makeaicreator](https://makeaicreator.com/)**: Face-consistent AI influencer photos and voiceover videos from a plain-language persona, with product placement for posts and ads.
 - **[Pika](https://pika.art/)**: Idea-to-video platform with viral effects and quick edits.
 - **[CapCut](https://www.capcut.com/)**: Popular AI video editor with auto-captions and effects.
 - **[Descript](https://www.descript.com/)**: Edit video by editing the transcript, with AI audio cleanup.
