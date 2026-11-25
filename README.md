@@ -41,6 +41,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Qwen Chat](https://chat.qwen.ai/)**: Alibaba's multilingual assistant powered by the Qwen model family.
 - **[Replika](https://replika.com/)**: AI companion designed for emotional support and conversation practice.
 - **[Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571)**: iOS wellness companion that listens, tracks mood and guides breathing in English or Vietnamese, with a separate safety check that surfaces verified local helplines.
+- **[Whizi](https://whizi.io/)**: One subscription for ChatGPT, Claude, Gemini and other models in one chat, plus image, video and music generation.
 - **[WSUP AI](https://wsupai.app/)**: Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 
 ## AI Coding
