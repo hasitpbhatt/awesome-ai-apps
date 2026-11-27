@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 155 AI apps across 11 categories**
+**Total: 156 AI apps across 11 categories**
 
 ## Contents
 
@@ -181,6 +181,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Notion AI](https://www.notion.so/product/ai)**: AI-powered workspace for notes, docs, wikis, and databases.
 - **[Obsidian](https://obsidian.md/)**: Local-first knowledge base of linked notes with AI plugins.
 - **[Otter.ai](https://otter.ai/)**: Records, transcribes, and summarizes meetings with action items.
+- **[QuestionPunk](https://www.questionpunk.com/)**: Surveys and AI-moderated voice and chat interviews that ask follow-up questions.
 - **[Reclaim.ai](https://reclaim.ai/)**: AI scheduling that optimizes your calendar around tasks.
 - **[SaneBox](https://www.sanebox.com/)**: AI email filtering that prioritizes your inbox automatically.
 - **[Shortwave](https://www.shortwave.com/)**: AI email client that triages and drafts your inbox.
