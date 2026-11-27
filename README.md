@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 155 AI apps across 11 categories**
+**Total: 156 AI apps across 11 categories**
 
 ## Contents
 
@@ -63,6 +63,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Qodo](https://www.qodo.ai/)**: AI platform for test generation, code review, and PR quality.
 - **[Replit Agent](https://replit.com/ai)**: Browser-based AI platform that builds and deploys apps from prompts.
 - **[Roo Code](https://roocode.com/)**: Open-source VS Code agent with role-based modes (Code, Architect, Debug).
+- **[Sandscale](https://sandscale.dev/)**: Hosted Firecracker microVM sandboxes where AI coding agents run code, reachable over a remote MCP server with per-tool policies and an audit log.
 - **[v0](https://v0.dev/)**: Generative UI tool that turns prompts into production-ready React/Next.js code.
 - **[Windsurf](https://windsurf.com/)**: Agentic IDE with Cascade for planning and executing multi-step changes.
 - **[YYLO](https://github.com/yylo-dev/yylo)**: Open-source command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.
