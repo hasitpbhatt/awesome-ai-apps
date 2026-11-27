@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 155 AI apps across 11 categories**
+**Total: 156 AI apps across 11 categories**
 
 ## Contents
 
@@ -142,6 +142,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[OpusClip](https://www.opus.pro/)**: Extracts viral short clips from long-form videos.
 - **[Pika](https://pika.art/)**: Idea-to-video platform with viral effects and quick edits.
 - **[Runway](https://runwayml.com/)**: AI video generation and editing with inpainting and motion tracking.
+- **[Seedance AI Video Generator](https://www.seeddance.io/)**: Browser-based AI video generator that runs Seedance 2.5 and other video models, with a free first clip and no login.
 - **[shortshort](https://www.shortshort.io/)**: Turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions.
 - **[Sora](https://sora.com/)**: OpenAI's text-to-video model for high-quality, realistic clips.
 - **[Synthesia](https://www.synthesia.io/)**: AI avatars that present videos from text in 120+ languages.
